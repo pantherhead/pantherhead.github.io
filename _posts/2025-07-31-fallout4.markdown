@@ -6,8 +6,8 @@ categories: game
 ---
 Fallout 4 is one of my top 10 favorite games.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Fallout 4(Bethesda)][fallout4-bethesda] for more info.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[fallout4-bethesda]: https://fallout.bethesda.net/en/games/fallout-4
+[fallout4-wikipedia]: https://en.wikipedia.org/wiki/Fallout_4
+[fallout4-steam]: https://store.steampowered.com/app/377160/Fallout_4/
