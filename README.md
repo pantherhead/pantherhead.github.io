@@ -1,4 +1,0 @@
-# pantherhead.github.io
-
-こんにちは。
-
